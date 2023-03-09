@@ -1,3 +1,9 @@
 body {
   background-color: aquamarine;
 }
+
+code {
+  background-color: #0002;
+  padding: .2em;
+  border-radius: .2em;
+}
